@@ -39,10 +39,10 @@ If you have not used Terraform before, this [documentation](https://docs.microso
 ## Spot VM Support
 Not all Azure regions have Spot VM capacity.  If you attempt to provision a Spot VM in a region without capacity, you will receive a [SkuNotAvailable error](https://docs.microsoft.com/en-us/azure/virtual-machines/error-codes-spot).
 
-Shameless Plug
+## Shameless Plug
 Whether you ultimately make use of an Azure-based folding machine or just want to run the client at home on your own computers, we would love to have you over at [r00t f0lds](https://folding.extremeoverclocking.com/team_summary.php?s=&t=258829).  We recently just made it into the Top 50 teams and have stickers and challenge coins available for all team members.  Follow us [here](https://twitter.com/r00t0wns/) on Twitter.
 
 
-# Credits
+## Credits
 **Blaize**: For coming up with the [initial idea and ARM template](https://github.com/theonemule/fahclient-azure-vm), as well as the VM configuration script that installs the F@H client as well as configures nginx.
 
